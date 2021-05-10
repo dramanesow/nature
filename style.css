@@ -1,1 +1,11 @@
+body {
+    color:black;
+    background-color:white;
+    background-image:url(image/nat.jpg);
+    margin:0;
+    }
 
+.p1 {
+    text-align: center;
+    color: rgb(42, 165, 58);
+}
